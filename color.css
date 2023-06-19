@@ -59,12 +59,6 @@ container{
     background-color:cornflowerblue;
     width:400px;
     height:400px;
-    .box3 .word{
-    color:black;
-    text-align: center;
-    line-height: 400px ;
-    font-size:50px;    
-}   
 }
 .box3 .word{
     color:black;
