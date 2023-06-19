@@ -57,7 +57,8 @@ container{
 }
 .box3:hover{
     background-color:cornflowerblue;
-    transform:scale(2);
+    width:400px;
+    height:400px;
 }
 .box3 .word{
     color:black;
